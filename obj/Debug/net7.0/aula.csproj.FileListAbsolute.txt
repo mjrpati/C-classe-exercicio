@@ -1,0 +1,15 @@
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.csproj.AssemblyReference.cache
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.GeneratedMSBuildEditorConfig.editorconfig
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.AssemblyInfoInputs.cache
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.AssemblyInfo.cs
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.csproj.CoreCompileInputs.cache
+/home/pati/Documentos/csharp/aula/bin/Debug/net7.0/aula
+/home/pati/Documentos/csharp/aula/bin/Debug/net7.0/aula.deps.json
+/home/pati/Documentos/csharp/aula/bin/Debug/net7.0/aula.runtimeconfig.json
+/home/pati/Documentos/csharp/aula/bin/Debug/net7.0/aula.dll
+/home/pati/Documentos/csharp/aula/bin/Debug/net7.0/aula.pdb
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.dll
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/refint/aula.dll
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.pdb
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/aula.genruntimeconfig.cache
+/home/pati/Documentos/csharp/aula/obj/Debug/net7.0/ref/aula.dll
